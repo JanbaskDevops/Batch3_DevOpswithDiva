@@ -1,0 +1,122 @@
+JB11628-DevOps-07th-Sept2024(Weekend)-Class1-IntroductionToDevOps
+=================================================================
+Why DevOps
+Education background
+Exp- 5-6
+
++91-8618996024
+
+What is DevOps and why we need to learn DevOps?
+
+Mobile phone
+=============
+2000   2010    2020
+
+
+Travel(US to UK)
+=======
+1900   1950    2000
+
+Bank
+====
+2000   2010    2020
+
+Video shooting on my marriage from Top
+=============================
+2000 > Airoplane pilot and cameramen >> 1000 USD
+
+2020 > Drone >> 50 USD
+
+>>>
+
+>>> Technologies are changing day by Day
+>>> Technologies are producing cost effective solution day by day.
+
+DevOps is all about improvement.
+Cost, time to market and quality
+
+
+History of DevOps
+=================
+Devlopers, testers, srum master, product owner, deployment Engineer, release engineer...
+
+Developer Group: Coder, tester, architect
+Operator Group: Build Engineer, release Engineer
+
+
+Why we multiple environment?
+Development
+Test
+QA
+preprod
+Prod
+
+
+Code deployment> name
+
+200 yrs back> I will carry cargo and 500 passangers and I would be flying from one country to another country.
+
+Tyre> Very high quality tyre.
+
+Now> 
+
+Developer mindset > hit and trial>> These people are the pillar of work.
+=================
+
+What is Operator? >> Person who replicate environment from Dev > test > QA > Preprod > prod
+
+Operator mindset  > Checklist
+================
+
+Please tell me steps to draw tiger into pen and paper? >> position
+
+
+
+
+
+
+Who is father of DevOps?
+========================
+Patrick Dubois
+DevOps was first founded by Patrick Dubois who is regarded as the father of DevOps
+
+
+
+Development Team > hit and trail
+Operation Team > Once success in lower environment then they would put in higher
+
+
+Patrick has setup one meeting to discuss about the problem why team is fighting like cats and dogs.
+
+To: Development group, Operation groups
+
+Subject: #DevOpsdays
+
+About. devopsdays is a worldwide community conference series for anyone interested in IT improvement. About devopsdays
+
+
+#DevOpsDays > DevOps
+
+
+1) Development team treat operation and senior citizen and repect them, and involve them from planning phase.
+
+2) Operation team will respect development team.
+
+3) Process should be uniform.
+
+4) pipeline
+
+5) IAC: Infrastucture as code
+
+
+Docker, K8s, Ansible, CICD, Terraform , azure DevOps
+
+
+
+where we would be doing practice?
+https://killercoda.com/login
+
+
+Then login with gmail.
+
+then click on playgrounds > ubuntu
