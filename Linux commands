@@ -1,0 +1,80 @@
+Here’s a list of 60 commonly used Linux commands along with a brief explanation of what each one does:
+1-10: File and Directory Management
+
+    ls – Lists the contents of a directory.
+    cd – Changes the current directory.
+    pwd – Prints the current working directory.
+    mkdir – Creates a new directory.
+    rmdir – Removes an empty directory.
+    rm – Deletes files or directories.
+    cp – Copies files or directories.
+    mv – Moves or renames files or directories.
+    touch – Creates an empty file or updates a file's timestamp.
+    find – Searches for files and directories.
+
+11-20: File Viewing and Editing
+
+    cat – Concatenates and displays file contents.
+    less – Views file contents one screen at a time.
+    more – Displays file contents, similar to less.
+    head – Displays the first few lines of a file.
+    tail – Displays the last few lines of a file.
+    nano – A simple text editor.
+    vi/vim – Powerful text editors.
+    grep – Searches text using patterns.
+    diff – Compares two files line by line.
+    wc – Counts lines, words, and characters in a file.
+
+21-30: System Information and Monitoring
+
+    top – Displays real-time system processes and resource usage.
+    htop – An enhanced version of top with better user interface.
+    df – Shows disk space usage.
+    du – Displays disk usage of files and directories.
+    free – Displays memory usage.
+    uname – Shows system information.
+    uptime – Tells how long the system has been running.
+    dmesg – Displays system boot messages.
+    lscpu – Lists CPU architecture information.
+    lsblk – Lists information about block devices (like hard drives).
+
+31-40: File Permissions and Ownership
+
+    chmod – Changes file or directory permissions.
+    chown – Changes file or directory ownership.
+    chgrp – Changes the group ownership of a file or directory.
+    umask – Sets default file permissions for newly created files.
+    stat – Displays detailed information about a file or filesystem.
+    ln – Creates a symbolic or hard link to a file.
+    mount – Mounts a filesystem.
+    umount – Unmounts a filesystem.
+    tar – Archives files into a tarball (also compressing with -z for gzip).
+    zip – Compresses files into a zip archive.
+
+41-50: Networking
+
+    ping – Checks network connectivity to a server.
+    ifconfig – Configures network interfaces (deprecated, use ip).
+    ip – Configures network interfaces and routing.
+    netstat – Displays network connections, routing tables, etc.
+    ss – A modern replacement for netstat.
+    wget – Downloads files from the internet.
+    curl – Transfers data from or to a server.
+    scp – Securely copies files over a network.
+    ssh – Connects to a remote server securely.
+    nmap – Network exploration tool and port scanner.
+
+51-60: Process Management and System Control
+
+    ps – Displays running processes.
+    kill – Terminates a process by PID.
+    killall – Terminates all processes with a specific name.
+    bg – Moves a process to the background.
+    fg – Brings a background process to the foreground.
+    jobs – Lists all background jobs.
+    crontab – Schedules jobs to run at regular intervals.
+    systemctl – Controls system services (start, stop, restart, etc.).
+    shutdown – Shuts down or reboots the system.
+    reboot – Reboots the system.
+
+These commands cover a wide range of basic Linux functionality, from file management to process control, making them essential for users and administrators.
